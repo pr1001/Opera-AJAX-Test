@@ -1,0 +1,1 @@
+This is a small bit of code to test Opera's security sandboxing of XMLHttpRequests. Notably, there appears to be differences in Opera 9.64 on Mac OS X when this code is run as a local file or as a widget.
