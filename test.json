@@ -1,0 +1,4 @@
+{
+	simple: "JSON testing",
+	so: ['this', 'should', 'work']
+}

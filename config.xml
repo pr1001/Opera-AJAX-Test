@@ -1,0 +1,12 @@
+<widget id="com.bubblefoundry.operaajaxtest" dockable="no">
+  <widgetname>Opera AJAX Test</widgetname>
+  <description>A widget that tests whether Opera allows AJAX requests to local widget files.</description>
+  <width>320</width>
+  <height>240</height>
+  <author>
+    <name>Peter Robinett</name>
+    <organization>Bubble Foundry</organization>
+    <link>http://www.bubblefoundry.com</link>
+    <email>thefoundry@bubblefoundry.com</email>
+  </author>
+</widget>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<test>
+	<item>
+		<el some="attribute" />
+		<an>element</an>
+	</item>
+	<item>
+		<el some="attribute x2" />
+		<an>element x2</an>
+	</item>
+</test>
